@@ -166,13 +166,3 @@ function truthyToTrue(arr){
 }
 
 console.log(truthyToTrue([500, 0, 'shivom', '', []]))
-
-// function truthyLoop(arr){
-//     let falsyLoop = []
-//     for(let i= 0; i < arr.length; ++i){
-//         falsyLoop [i] = 
-//     }
-//     return falsyLoop
-// }
-
-// console.log(truthyLoop([500, 0, 'shivom', '', []]))
