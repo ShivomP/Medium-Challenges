@@ -100,7 +100,7 @@ console.log(reverseString('abc'))
 
 // Array Reverse Property
 
-// return str.split('').reverse().join(')
+// return str.split('').reverse().join('')
 
 // Question 9
 
